@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import { BarChart } from '@mui/x-charts/BarChart';
 
 import './App.css'
 
